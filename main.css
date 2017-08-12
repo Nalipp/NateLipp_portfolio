@@ -142,7 +142,7 @@ aside a:hover {
   background-image: url('images/project2.jpg');
 }
 
-/*@media (max-width: 950px) {
+@media (max-width: 950px) {
   body {
     width: 80%;
     margin: 80px auto;
@@ -190,4 +190,3 @@ aside a:hover {
     display: block;
   }
 }
-*/
