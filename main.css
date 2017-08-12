@@ -20,7 +20,7 @@ li {
 a {
   text-decoration: none;
   color: #444;
-}  
+}
 
 header {
   display: flex;
@@ -142,7 +142,7 @@ aside a:hover {
   background-image: url('images/project2.jpg');
 }
 
-@media (max-width: 950px) {
+/*@media (max-width: 950px) {
   body {
     width: 80%;
     margin: 80px auto;
@@ -155,13 +155,12 @@ aside a:hover {
     min-width: 100px;
     max-width: 100px;
     margin-top: 40px;
-    /* border: 8px solid #eee; */
   }
 
   #title {
     flex: 100%;
   }
-  
+
   header h1 {
     font-size: 40px;
   }
@@ -169,14 +168,14 @@ aside a:hover {
   h3 {
     text-align: center;
     padding-left: 0;
-  }    
+  }
 
   #contact {
     display: flex;
     flex-wrap: wrap;
     padding: 20px 0 0 0;
   }
-  
+
   #contact p {
     display: block;
     width: 100%;
@@ -191,4 +190,4 @@ aside a:hover {
     display: block;
   }
 }
-
+*/
